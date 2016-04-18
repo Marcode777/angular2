@@ -1,0 +1,26 @@
+{
+  "name": "angular2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0",
+    "save": "^2.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcode777/angular2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Marcode777/angular2/issues"
+  },
+  "homepage": "https://github.com/Marcode777/angular2#readme"
+}
